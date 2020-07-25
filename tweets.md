@@ -17,10 +17,10 @@ $ Mv + mu = Mv’ + mu’$
 となる。壁の方が正の方向である。
 これを解くと、以下のようになる。 
 
-$\left( \begin{matrix} v' \\ u' \end{matrix} \right) = 
+$\left( \begin{matrix} v' \\\\ u' \end{matrix} \right) = 
 \frac{1}{M+m} 
-\left( \begin{matrix} M-m & 2 m \\ - 2 M & M-m \end{matrix} \right)
-\left( \begin{matrix} v \\ u \end{matrix} \right) $
+\left( \begin{matrix} M-m & 2 m \\\\ - 2 M & M-m \end{matrix} \right)
+\left( \begin{matrix} v \\\\ u \end{matrix} \right) $
 
 $ \cos \theta = \frac{M-m}{M+m}$ 
 
@@ -29,5 +29,5 @@ $ \sin \theta = - 2 \frac{\sqrt{mM}}{M+m} $
 とすると、
 
 $ \frac{1}{M+m} 
-\left( \begin{matrix} M-m & 2 \sqrt{mM} \\ - 2 \sqrt{mM} &  M-m \end{matrix} \right) = 
-\left( \begin{matrix} \cos \theta & -\sin \theta \\ \sin \theta & \cos \theta \end{matrix} \right) $ 
+\left( \begin{matrix} M-m & 2 \sqrt{mM} \\\\ - 2 \sqrt{mM} &  M-m \end{matrix} \right) = 
+\left( \begin{matrix} \cos \theta & -\sin \theta \\\\ \sin \theta & \cos \theta \end{matrix} \right) $ 
