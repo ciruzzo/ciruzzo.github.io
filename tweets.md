@@ -1,3 +1,15 @@
+### 2020/07/25 GitHub Pagesを使ってみる
+
+Markdownで書けるのっていいなと思って、使い始めた。最初に見たのはどこだったか忘れたけれど、2か月くらい前にgithubの設定はしてあった。まったく覚えていなかった。
+
+[GitHub Pages を使ってみる](https://docs.github.com/ja/github/working-with-github-pages)
+
+数式を書きたかったので、ここを読んでv2の設定をまるまる写した。
+
+[Github Pages で数式を ～ MathJax v3 設定のポイント](https://qiita.com/memakura/items/e4d2de379f98ad7be498)
+
+Google Search Consoleにこのページは登録したが、sitemapは作っていない。これで様子を見よう。
+
 ### 2020/07/25 壁にぶつかるボールが円周率を作る
 
 $m$は静止しており、右から$M$がぶつかってくる。左端には壁がある。
