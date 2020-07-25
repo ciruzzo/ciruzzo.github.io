@@ -47,3 +47,6 @@ $ \frac{1}{M+m}
 \begin{pmatrix} M-m & 2 \sqrt{mM} \\\\ - 2 \sqrt{mM} &  M-m \end{pmatrix}  = 
 \begin{pmatrix} \cos \theta & -\sin \theta \\\\ \sin \theta & \cos \theta \end{pmatrix}  $ 
 
+と円周上の回転であることがわかる。$\theta$が$M,m$の一回の衝突での回転の角度であって、定数である。合計で$\pi$回転すればよい。
+つまり$ 2\times \pi / \theta = 2\times\pi/\arccos{\frac{M-m}{M+m}} $が衝突回数全体ということになる。
+
