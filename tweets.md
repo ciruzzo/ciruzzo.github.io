@@ -47,6 +47,16 @@ $ \frac{1}{M+m}
 \begin{pmatrix} M-m & 2 \sqrt{mM} \\\\ - 2 \sqrt{mM} &  M-m \end{pmatrix}  = 
 \begin{pmatrix} \cos \theta & -\sin \theta \\\\ \sin \theta & \cos \theta \end{pmatrix}  $ 
 
-と円周上の回転であることがわかる。$\theta$が$M,m$の一回の衝突での回転の角度であって、定数である。合計で$\pi$回転すればよい。
-つまり$ 2\times \pi / \theta = 2\times\pi/\arccos{\frac{M-m}{M+m}} $が衝突回数全体ということになる。
+と円周上の回転であることがわかる。
+
+$u=0, v=1$の点（vの初期値を1とする）から　$u=-\sqrt{\frac{M}{m}},v=0$となる点を通過し、$u=0,v=-1$となる点に進んで壁との衝突は終了する。
+
+
+$\theta$が$M,m$の一回の衝突での回転の角度であって、定数である。合計で$\pi$回転すればよい。
+つまり$ 2\pi / \theta = 2\pi/\arccos{\frac{M-m}{M+m}} $が衝突回数全体ということになる。
+
+
+元に戻って、$\frac{M}{m} = 100^d$ということから、
+
+$2/arccos{\frac{100^d-1}{100^d-1}} \approx 10^d$なので、例えば$d=5$の場合$314159$となる。ということで
 
