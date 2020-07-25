@@ -4,4 +4,4 @@ Hellow world!!!
 
 ### links
 
-[tweets](https://ciruzzo.github.io/tweets.md)
+[tweets](https://ciruzzo.github.io/tweets.html)
