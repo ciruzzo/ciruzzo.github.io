@@ -20,14 +20,18 @@ $ Mv + mu = Mv’ + mu’$
 となる。壁の方が正の方向である。
 これを解くと、以下のようになる。 
 
-$\begin{pmatrix} v' \\ u' \end{pmatrix} = 
+$\begin{pmatrix} v' \\ 
+u' \end{pmatrix} = 
 \frac{1}{M+m} 
-\begin{pmatrix} M-m & 2 m 
-\\ - 2 M & M-m \end{pmatrix}
-\begin{pmatrix} v \\ u \end{pmatrix} $
+\begin{pmatrix} M-m & 2 m \\ 
+- 2 M & M-m \end{pmatrix}
+\begin{pmatrix} v 
+\\ u \end{pmatrix} $
 
 
 $ \cos \theta = \frac{M-m}{M+m}$ 
 $ \sin \theta = - 2 \frac{\sqrt{mM}}{M+m} $ 
 
-$ \frac{1}{M+m}\begin{pmatrix} M-m & 2 \sqrt{mM} \\ - 2 \sqrt{mM} &  M-m \end{pmatrix}= \begin{pmatrix} \cos \theta & -\sin \theta \\ \sin \theta & \cos \theta \end{pmatrix}$ 
+$ \frac{1}{M+m}\begin{pmatrix} M-m & 2 \sqrt{mM} \\ 
+- 2 \sqrt{mM} &  M-m \end{pmatrix} = \begin{pmatrix} \cos \theta & -\sin \theta \\
+\sin \theta & \cos \theta \end{pmatrix}$ 
