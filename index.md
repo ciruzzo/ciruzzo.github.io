@@ -1,7 +1,5 @@
-### Hello world
+### Yoshihiro Tsuchiya
 
-Hellow world!!!
-
-### links
+### Links
 
 [tweets](https://ciruzzo.github.io/tweets.html)
