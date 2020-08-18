@@ -11,7 +11,7 @@ WSLをWSL2にアップグレードした。[公式](https://docs.microsoft.com/j
 
 あとは既存のLinuxを
 
-> wsl --set-version <distribution name> <versionNumber>
+> wsl --set-version \<distribution name\> \<versionNumber\>
  
 で2に変更しただけ。
 
