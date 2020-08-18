@@ -1,3 +1,24 @@
+### 2020/08/18 WSL2
+
+WSLをWSL2にアップグレードした。[公式](https://docs.microsoft.com/ja-jp/windows/wsl/install-win10)の情報の通り。
+
+
+一か所トラブったのは、
+
+> wsl --set-default-version 2
+
+と言ったときに、"エラー 0x1bc"と言われたので、[ここ](https://docs.microsoft.com/ja-jp/windows/wsl/wsl2-kernel)の通り、「WSL2 Linux カーネル更新プログラム パッケージをダウンロード」なるものを実行したところ、通るようになった。なんのこっちゃ。
+
+あとは既存のLinuxを
+
+> wsl --set-version <distribution name> <versionNumber>
+ 
+で2に変更しただけ。
+
+
+Windows10がバージョン 2004なるものに上がったので、C:\Windows.oldという巨大なフォルダが出来ている。そのうち消そう。
+
+
 ### 2020/08/04 インド、クラクション
 
 
