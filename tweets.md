@@ -1,3 +1,10 @@
+### 2020/08/23 Caveat emptor
+
+Caveat emptor はアメリカに住んだときに習った言葉で、買い主側が注意せよ、と言う意味。あんたが買ったりんごが腐ってても店は責任持たないからなよく見て買えよと。
+
+
+今やっと本来の意味が分かった。ラテン語でemptorはa/the buyer。caveatは動詞caveo: take care, be aware ofの三人称単数現在形。この２単語でThe buyer takes care.と言う文なのだった。
+
 
 ### 2020/08/23 A handful of times
 
