@@ -9,60 +9,58 @@
 
 
 - 閑さや岩にしみ入る蝉の声
-- The voice of a worm that penetrates into a quiet rock
-- 静かな岩に突き刺さる虫の声
-
-
+ - The voice of a worm that penetrates into a quiet rock
+ - 静かな岩に突き刺さる虫の声
 
 
 - むざんやな甲の下のきりぎりす
-- The edge under the annoying instep
-- 迷惑な甲の下のエッジ
-
+ - The edge under the annoying instep
+ - 迷惑な甲の下のエッジ
+ 
 
 - 旅に病んで夢は枯野をかけ廻る
-- I'm sick of traveling and my dreams go around the dead field
-- 私は旅行にうんざりしていて、私の夢は死んだフィールドを一周します
+ - I'm sick of traveling and my dreams go around the dead field
+ - 私は旅行にうんざりしていて、私の夢は死んだフィールドを一周します
 
 
 - 幾山河 越えさり行かば 寂しさの 終てなむ国ぞ 今日も旅ゆく
-- I'm lonely if I go over the mountains and rivers. I'm going to travel to the end of the country today.
-- 山や川を越えたら寂しいです。今日は国の果てまで旅行します。
+ - I'm lonely if I go over the mountains and rivers. I'm going to travel to the end of the country today.
+ - 山や川を越えたら寂しいです。今日は国の果てまで旅行します。
 
 
 - 白鳥はかなしからずや空の青海のあをにも染まずただよふ
-- The swan didn't dye the blue sea in the sky.
-- 白鳥は空の青い海を染めませんでした
+ - The swan didn't dye the blue sea in the sky.
+ - 白鳥は空の青い海を染めませんでした
 
 
 - 日本脱出したし 皇帝ペンギンも皇帝ペンギン飼育係りも. 
-- Escaped from Japan, both the emperor penguin and the emperor penguin keeper.
-- コウテイペンギンとコウテイペンギンの飼育係の両方が日本から脱出した
+ - Escaped from Japan, both the emperor penguin and the emperor penguin keeper.
+ - コウテイペンギンとコウテイペンギンの飼育係の両方が日本から脱出した
 
 
--『この味がいいね』と君が言ったから七月六日はサラダ記念日
-- July 6th is Salad Anniversary because you said "I like this taste"
-- 7月6日は「この味が好き」とおっしゃっていたのでサラダ記念日です
+- 『この味がいいね』と君が言ったから七月六日はサラダ記念日
+ - July 6th is Salad Anniversary because you said "I like this taste"
+ - 7月6日は「この味が好き」とおっしゃっていたのでサラダ記念日です
 
 
--「嫁さんになれよ」だなんてカンチューハイ二本で言ってしまっていいの
-- It's okay to say "Become a wife" with two chu-hi
-- チューハイ2人で「奥さんになって」と言っても大丈夫
+- 「嫁さんになれよ」だなんてカンチューハイ二本で言ってしまっていいの
+ - It's okay to say "Become a wife" with two chu-hi
+ - チューハイ2人で「奥さんになって」と言っても大丈夫
 
 
 - 自転車のカゴからわんとはみ出してなにか嬉しいセロリの葉っぱ
-- A celery leaf that sticks out of the bicycle basket and makes me happy
-- 自転車かごからはみ出して幸せになるセロリの葉
+ - A celery leaf that sticks out of the bicycle basket and makes me happy
+ - 自転車かごからはみ出して幸せになるセロリの葉
 
 
 - 逢うたびに抱かれなくてもいいように一緒に暮らしてみたい七月
-- I want to live together so that I don't have to be embraced every time I meet July
-- 7月に会うたびに抱かれる必要がないように一緒に暮らしたい
+ - I want to live together so that I don't have to be embraced every time I meet July
+ - 7月に会うたびに抱かれる必要がないように一緒に暮らしたい
 
 
 - 電話口でおっ、て言って前みたいにおっ、て言って言って言ってよ
-- Oops on the phone, say, say, like before, say, say
-- 電話でおっと、言う、言う、前のように、言う、言う
+ - Oops on the phone, say, say, like before, say, say
+ - 電話でおっと、言う、言う、前のように、言う、言う
 
 
 
