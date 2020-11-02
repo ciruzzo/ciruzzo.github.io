@@ -1,3 +1,5 @@
+% Blog: Yoshihiro Tsuchiya
+
 ## わたしのログ
 
 ### 2020/10/29 学術会議
