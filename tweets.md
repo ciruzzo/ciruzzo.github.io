@@ -2,6 +2,29 @@
 ## わたしのログ
 
 
+### 2020/11/17 Xfce/FreeBSD/Virtualbox
+
+Xfceをいれてみたのだが、virtualboxで画面を大きくしても、xfceは1024x768のまま。
+フル画面にする方法。
+
+以下を行う。
+
+pkg install virtualbox-ose-additions virtualbox-ose-kmod 
+
+/etc/rc.confに以下を追加
+
+vboxguest_enable="YES"
+
+vboxservice_enable="YES"
+
+
+これだけではフル画面にならなかったので、
+
+ホストのvirtualboxで 設定, ディスプレイで、グラフィックコントローラをVBoxVGA
+
+としたらあら不思議。フル画面になった。
+
+
 ### 2020/11/17 NTTの料金一覧
 
 NTTの料金は以前、[tabalマイページ](tabal.jp)で参照することができて、その一方で[NTT東](https://www.billing.ntt-east.co.jp)にも似た感じのものがあったのだが、[Ｗｅｂビリング](
