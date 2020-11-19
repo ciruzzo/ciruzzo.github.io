@@ -2,6 +2,13 @@
 ## わたしのログ
 
 
+### 2020/11/19 Google searchの期間指定
+
+beforeとafterで指定する。日付の書き方はこんな感じ。
+
+
+gotoイート　before:2020-11-15 after::2020-10-10
+
 ### 2020/11/17 Xfce/FreeBSD/Virtualbox
 
 Xfceをいれてみたのだが、virtualboxで画面を大きくしても、xfceは1024x768のまま。
