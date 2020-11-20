@@ -46,7 +46,7 @@ vboxservice_enable="YES"
 
 ### 2020/11/17 NTTの料金一覧
 
-NTTの料金は以前、[tabalマイページ](tabal.jp)で参照することができて、その一方で[NTT東](https://www.billing.ntt-east.co.jp)にも[＠ビリング](https://www.billing.ntt-east.co.jp/entrance)という似た感じのものがあったのだが、[Ｗｅｂビリング](
+NTTの料金は以前、[tabalマイページ](tabal.jp)で参照することができて、その一方でNTT東にも[＠ビリング](https://www.billing.ntt-east.co.jp)という似た感じのものがあったのだが、ちかごろ[Ｗｅｂビリング](
 https://www.ntt-finance.co.jp/billing/service/webbill/index.html)というのができたらしい。そこに統一されたようだ。いや、前からあったのかもしれない。利用するには申請が必要で、申請するとパスワードを郵送するとのことなのだが（ちょっと目を疑ったが、ほんとうに郵送）、すでに持っているのかもしれない。二度登録するとどうなるのだろう。
 
 
