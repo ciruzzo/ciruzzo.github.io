@@ -1,6 +1,11 @@
 
 ## わたしのログ
 
+
+### 2021/05/18 Facebook, Google
+
+GoogleでEbay を検索した直後に、FacebookでEbayの宣伝が出るようになったことがあった。こいつら人に言えない怪しいことやってるぞと思うのに十分なタイミング。FirefoxにFacebook container拡張を入れて、検索はDuckDuckGoに変えた。その後Facebookの広告のピントがボケてきたので成功したと見ている。
+
 ### 2021/05/15 iCloud
 
 20年ちかくMac・Appleユーザーだったのですが、だんだん使わなくなり、今残っているのはmac miniだけで、これが駄目になったらAppleとの付き合いはおしまいになります。
