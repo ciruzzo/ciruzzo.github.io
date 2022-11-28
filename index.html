@@ -7,6 +7,18 @@
   <title>memorandom</title>
   <meta name="description" content="test page">
   <link rel="stylesheet" href="style.css">
+
+  <script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 </head>
 
 <body>
@@ -14,6 +26,71 @@
 <h2> 2022/11/08 HHKBでCapsLockを起動・解除する方法 </h2>
 
 【Fn】 + 【Shift】 + 【Tab】 キー
+
+
+<h2> 2020/07/25 壁にぶつかるボールが円周率を作る </h2>
+
+$m$は静止しており、右から$M$がぶつかってくる。左端には壁がある。
+$m$は弾き飛ばされて壁と$M$に何度もぶつかる。$M$はやがて押し戻されて右に戻って行く。この衝突回数が円周率と関係あるという話。
+
+
+<blockquote>
+質量$m, M$の間に $\frac{M}{m} = 100^d, (d=0,1,2...)$ の関係がある時に、衝突の回数が円周率の上位$d$桁になる。（例：$d=3$, $314$）
+</blockquote>
+
+$M, m$それぞれの速度と衝突後の速度を$v, u$、$v’, u’$とし、エネルギー保存の法則と、運動量保存の法則から
+ 
+$$ \frac{1}{2} Mv^2 + \frac{1}{2} 
+mu^2 = \frac{1}{2} Mv’^2 + \frac{1}{2} mu’^2 $$ 
+
+$$ Mv + mu = Mv’ + mu’$$ 
+
+となる。壁の方が正の方向である。
+これを解くと、以下のようになる。 
+
+$$\begin{pmatrix} v' \\\\ u' \end{pmatrix} = 
+\frac{1}{M+m} 
+\begin{pmatrix} M-m & 2 m \\\\ - 2 M & M-m \end{pmatrix} 
+\begin{pmatrix} v \\\\ u \end{pmatrix}  $$
+
+（衝突直後の$u'$の符号はこれと逆だが、壁に当たって逆向きになった後のものとして表現している。）
+
+ここで、
+
+$$ x=\frac{v}{\sqrt{m}}, y=\frac{u}{\sqrt{M}}$$ 
+
+と変数の置き換えをすると、
+
+$$ \begin{pmatrix} x' \\\\ y' \end{pmatrix} = 
+\frac{1}{M+m} \begin{pmatrix} M-m & 2 \sqrt{mM} \\\\ - 2 \sqrt{mM} & M-m \end{pmatrix} 
+\begin{pmatrix} x \\\\ y \end{pmatrix} $$
+
+
+さらに、
+
+$$ \cos \theta = \frac{M-m}{M+m}$ 、$ \sin \theta = - 2 \frac{\sqrt{mM}}{M+m} $$ 
+
+とすると、
+
+$$ \frac{1}{M+m} 
+\begin{pmatrix} M-m & 2 \sqrt{mM} \\\\ - 2 \sqrt{mM} &  M-m \end{pmatrix}  = 
+\begin{pmatrix} \cos \theta & -\sin \theta \\\\ \sin \theta & \cos \theta \end{pmatrix}  $$ 
+
+と円周上の回転であることがわかる。
+
+
+<br>
+$x=1, y=0$ から $x=0, y=-1$ を通過し、 $x=-1,y=0$ に進んで壁との衝突は終了する。
+
+
+<br>
+ $\theta$ が $M,m$ の一回の衝突での回転の角度であって、上の置き換えを見て分かるように定数である。合計で $\pi$ 回転することになる。また、同じ回数の壁との衝突があるのでその2倍、つまり $2\pi/\theta = 2\pi/\arccos{\frac{M-m}{M+m}}$ が衝突回数全体ということになる。
+
+
+<br>
+元に戻って、 $\frac{M}{m} = 100^d$ ということから、
+
+$2/arccos{\frac{100^d-1}{100^d-1}} \approx 10^d$ なので、例えば $d=5$ の場合 $314159$ となる。ということで円周率の $d$ 桁が出てきた。
 
 </body>
 </html>
