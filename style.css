@@ -1,0 +1,24 @@
+body{line-height:1; font-family: sans-serif;}
+
+body,html {
+	background-color: #FFF;
+}
+nav {
+    text-align: right;
+}
+nav ul li a {
+    background: #EEE;
+    padding: 0px 0px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #444;
+}
+nav ul li a:hover {
+	background: #FFF;
+}
+nav ul li {
+    display: inline-block;
+    margin: 10px;
+}
+
