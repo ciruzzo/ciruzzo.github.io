@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>memorandom</title>
+  <link>https://ciruzzo.github.io</link>
+  <description>memorandom</description>
+  <item>
+    <title> 2022/11/29 最近のIT機器まわり</title>
+    <link> https://ciruzzo.github.io/index.html#20221129 </link>
+  </item>
+  <item>
+    <title> 2022/11/08 HHKBでCapsLockを起動・解除する方法 </title>
+    <link> https://ciruzzo.github.io/index.html#20221108 </link>
+  </item>
+  <item>
+    <title> 2020/11/15　文学におけるバグ </title>
+    <link> https://ciruzzo.github.io/index.html#20201115 </link>
+  </item>
+  <item>
+    <title> 2020/07/25 壁にぶつかるボールが円周率を作る </title>
+    <link> https://ciruzzo.github.io/index.html#20200725 </link>
+  </item>
+</channel>
+
+</rss> 
+
