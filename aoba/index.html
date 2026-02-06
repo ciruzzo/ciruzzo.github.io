@@ -6,11 +6,17 @@
 
   <link rel="stylesheet" href="reveal.js/dist/reveal.css">
   <link rel="stylesheet" href="reveal.js/dist/theme/white.css" id="theme">
-
   <script src="reveal.js/dist/reveal.js"></script>
   <script src="reveal.js/plugin/markdown/markdown.js"></script>
   <script src="reveal.js/plugin/highlight/highlight.js"></script>
-  <style> .reveal { font-size: 28px; /* 好みで 24〜32px に調整 */ } .reveal h1 { font-size: 1.6em; } .reveal h2 { font-size: 1.3em; } .reveal h3 { font-size: 1.1em; } </style> 
+  <style>
+    .reveal {
+      font-size: 28px;   /* 24〜32px が現実的 */
+    }
+    .reveal h1 { font-size: 1.6em; }
+    .reveal h2 { font-size: 1.3em; }
+    .reveal h3 { font-size: 1.1em; }
+  </style>
 </head>
 
 <body>
@@ -26,6 +32,11 @@
   <script>
     Reveal.initialize({
       hash: true,
+      width: 1280, 
+      height: 720, 
+      margin: 0.1, 
+      minScale: 0.2, 
+      maxScale: 1.5,
       plugins: [ RevealMarkdown, RevealHighlight ]
     });
   </script>
