@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>スマホ講座スライド</title>
+
+  <link rel="stylesheet" href="reveal.js/dist/reveal.css">
+  <link rel="stylesheet" href="reveal.js/dist/theme/black.css" id="theme">
+
+  <script src="reveal.js/dist/reveal.js"></script>
+  <script src="reveal.js/plugin/markdown/markdown.js"></script>
+  <script src="reveal.js/plugin/highlight/highlight.js"></script>
+</head>
+
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section data-markdown="slides.md"
+               data-separator="^---$"
+               data-separator-vertical="^\|\|\|$">
+      </section>
+    </div>
+  </div>
+
+  <script>
+    Reveal.initialize({
+      hash: true,
+      plugins: [ RevealMarkdown, RevealHighlight ]
+    });
+  </script>
+</body>
+</html>
+
