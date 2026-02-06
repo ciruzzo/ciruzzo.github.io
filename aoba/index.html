@@ -17,6 +17,17 @@
     .reveal h2 { font-size: 1.3em; }
     .reveal h3 { font-size: 1.1em; }
   </style>
+  <style>
+    .slide-number {
+      position: absolute;
+      bottom: 20px;
+      right: 30px;
+      font-size: 16px;
+      color: #666;
+      z-index: 100;
+    }
+  </style>
+
 </head>
 
 <body>
@@ -37,6 +48,7 @@
       margin: 0.1, 
       minScale: 0.2, 
       maxScale: 1.5,
+      slideNumber: true, 
       plugins: [ RevealMarkdown, RevealHighlight ]
     });
   </script>
