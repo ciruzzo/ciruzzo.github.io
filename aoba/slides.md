@@ -66,7 +66,7 @@
 ## 電話のかけ方
 - 番号入力   
 	- キーパッドのマークから
-<img src="images/keypad.png" width="25%">
+<img src="images/keypad.jpg" width="5%">
 - 着信履歴から発信  
 	- 着信履歴を押して
 	- 受話器のマークを押すと発信する
