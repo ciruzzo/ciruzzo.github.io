@@ -59,6 +59,7 @@
 
 ## ホーム画面の基本 Android
 - 戻る／ホーム／履歴(起動中アプリ) ボタン
+
 <img src="images/android_navigation.png" width="15%">
 
 ---
@@ -77,6 +78,7 @@
 - 番号入力   
 	- キーパッドのマークから
 <img src="images/keypad.jpg" width="5%">
+
 - 着信履歴から発信  
 	- 着信履歴を押して
 	- 受話器のマークで発信
@@ -88,6 +90,7 @@
 - 着信画面で応答  
 - 終了は「通話終了」
 	- (注意)アプリを終了しても切ったことにはならない
+
 <img src="images/phone.jpg" width="25%">
 
 ---
