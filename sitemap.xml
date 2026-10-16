@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
-<url>
-  <loc>https://ciruzzo.github.io/</loc>
-  <priority>1.0</priority>
-  <lastmod>2022-11-28T15:19:02+09:00</lastmod>
-</url>
+  <!-- トップページ -->
+  <url>
+    <loc>https://ciruzzo.github.io/</loc>
+    <priority>1.0</priority>
+    <lastmod>2024-07-31</lastmod>
+  </url>
+
+  <!-- 記事ページ（アンカー付き） -->
+  <url>
+    <loc>https://ciruzzo.github.io/index.html#20240731</loc>
+    <priority>0.9</priority>
+    <lastmod>2024-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://ciruzzo.github.io/index.html#20230103</loc>
+    <priority>0.9</priority>
+    <lastmod>2023-01-03</lastmod>
+  </url>
+  <url>
+    <loc>https://ciruzzo.github.io/index.html#20221108</loc>
+    <priority>0.9</priority>
+    <lastmod>2022-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://ciruzzo.github.io/index.html#20201115</loc>
+    <priority>0.9</priority>
+    <lastmod>2020-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ciruzzo.github.io/index.html#20200725</loc>
+    <priority>0.9</priority>
+    <lastmod>2020-07-25</lastmod>
+  </url>
+
 </urlset>
